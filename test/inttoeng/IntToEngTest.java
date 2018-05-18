@@ -8,7 +8,7 @@ public class IntToEngTest {
 
 	@Test
 	public void test() {
-		
+		 
 		IntToEng ite = new IntToEng();
 		String expected = "ninety nine";
 		String actual = ite.translateEng(99);
